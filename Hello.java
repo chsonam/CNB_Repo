@@ -8,7 +8,5 @@ class Hello {
 
  //task-101 changes
  m1 () {
- 
- }
 
 }
